@@ -1,0 +1,2 @@
+['remote "remote_storage"']
+    url = ../../remote_storage
